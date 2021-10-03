@@ -5,7 +5,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI support for V2ray Server
+LUCI_TITLE:=LuCI support for Xray Server
 LUCI_DEPENDS:=+xray-core
 LUCI_PKGARCH:=all
 PKG_VERSION:=1.1
