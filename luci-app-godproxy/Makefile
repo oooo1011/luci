@@ -6,7 +6,7 @@ PKG_RELEASE:=3-20210917
 
 include $(INCLUDE_DIR)/package.mk
 
-define Package/luci-app-godproxy1
+define Package/luci-app-godproxy
 	SECTION:=luci
 	CATEGORY:=LuCI
 	SUBMENU:=3. Applications
